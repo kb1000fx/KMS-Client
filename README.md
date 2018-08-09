@@ -1,2 +1,2 @@
 # KMS Client
-A simple bat file to activate Windows and Office.
+A simple batch file to activate Windows and Office.
